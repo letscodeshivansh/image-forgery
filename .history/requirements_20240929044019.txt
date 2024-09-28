@@ -1,9 +1,10 @@
 tensorflow
 numpy
-opencv-python-headless
 pillow
 scikit-learn
+opencv-python
 matplotlib
 scikit-image
 python-dotenv
 streamlit
+opencv-python-headless
