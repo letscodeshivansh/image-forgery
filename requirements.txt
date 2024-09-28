@@ -1,0 +1,9 @@
+tensorflow
+numpy
+pillow
+scikit-learn
+opencv-python
+matplotlib
+scikit-image
+python-dotenv
+streamlit
